@@ -1,5 +1,5 @@
 {
-    "name": "adldap/adldap",
+    "name": "montross50/adldap",
     "type": "library",
     "description": "A PHP LDAP Library for Active Directory Manipulation",
     "keywords": [
